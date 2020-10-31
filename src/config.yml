@@ -1,0 +1,21 @@
+ChatFilter:
+  Messages:
+    Commands:
+      Usage: "§7Usage: /filter <on/off>"
+      FailFilterOn: §7[ChatFilter] is already enabled
+      FailFilterOff: §7[ChatFilter] is already disabled
+      FilterOn: §7[ChatFilter] enabled
+      FilterOff: §7[ChatFilter] disabled
+    bad: §7We do not tolerate profanity, if you believe that that was not a profanity, please contact a Staff Member
+badwords:
+  - fuck
+  - shit
+  - piss
+  - dick
+  - asshole
+  - bitch
+  - nigga
+  - bastard
+  - damn
+  - cunt
+  - wanker

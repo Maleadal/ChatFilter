@@ -1,0 +1,9 @@
+name: ChatFilter
+version: 1.0.0
+author: Maleadal
+main: me.maleadal.ChatFilter.ChatFilter
+api-version: 1.14
+commands:
+  filter:
+    description: Filters chat
+    aliases: [f, filters]
